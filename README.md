@@ -18,7 +18,7 @@ Before dive into installation process, make sure you have Python installed on yo
 Open Command Prompt (windows) or Terminal (Linux/MAC) & follow the following commands.
 
     git clone https://github.com/the-sam963/InstAuto.git
-    cd InstAuto-master
+    cd InstAuto
     python setup.py install
 
 
